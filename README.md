@@ -245,27 +245,3 @@ Metadata includes:
 * ✅ Ethical AI safeguards
 * ✅ Documentation and README
 
----
-
-## 📬 Contact & Submission
-
-Please email the repository link to:
-**[intern@talrn.com](mailto:intern@talrn.com)**
-
-Include:
-
-* Full name
-* Contact number
-* Availability date
-
----
-
-## 🙏 Acknowledgements
-
-* HuggingFace Diffusers
-* Stability AI
-* Streamlit Community
-
----
-
-### ⭐ If you like this project, give it a star on GitHub!

@@ -1,0 +1,9 @@
+torch              # specify version in README accordingly
+transformers
+diffusers
+accelerate
+safetensors
+Pillow
+streamlit
+numpy
+opencv-python      # for watermarking
